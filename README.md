@@ -16,6 +16,5 @@ The project uses two ROS2 nodes: one for subscribing to joystick commands and co
 - **Simple URDF** for the robot structure.
 
 ---
-
-## Project Structure
+-Use ros2 joy sensor node for joystick
 
